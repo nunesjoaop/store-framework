@@ -27,8 +27,9 @@
       "textAlignment": "center"
 
 
-    },
-    "info-card#button-left": {
+    }
+  },
+  "info-card#button-left": {
       "props": {
         "isFullModeStyle": false,
         "textPosition": "RIGHT",
@@ -38,6 +39,7 @@
         "callToActionMode": "link",
         "callToActionText": "Go to Collection",
         "textAlignment": "center"
-    
-  }
+      }
+    }
+  
 }
